@@ -1,0 +1,603 @@
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 6487 faults (6487)
+vector[40] detects 3378 faults (9865)
+vector[39] detects 2181 faults (12046)
+vector[38] detects 1268 faults (13314)
+vector[37] detects 915 faults (14229)
+vector[36] detects 635 faults (14864)
+vector[35] detects 206 faults (15070)
+vector[34] detects 621 faults (15691)
+vector[33] detects 88 faults (15779)
+vector[32] detects 210 faults (15989)
+vector[31] detects 128 faults (16117)
+vector[30] detects 121 faults (16238)
+vector[29] detects 270 faults (16508)
+vector[28] detects 88 faults (16596)
+vector[27] detects 126 faults (16722)
+vector[26] detects 108 faults (16830)
+vector[25] detects 109 faults (16939)
+vector[24] detects 14 faults (16953)
+vector[23] detects 1 faults (16954)
+vector[22] detects 13 faults (16967)
+vector[21] detects 27 faults (16994)
+vector[20] detects 32 faults (17026)
+vector[19] detects 0 faults (17026)
+vector[18] detects 2 faults (17028)
+vector[17] detects 8 faults (17036)
+vector[16] detects 14 faults (17050)
+vector[15] detects 0 faults (17050)
+vector[14] detects 5 faults (17055)
+vector[13] detects 1 faults (17056)
+vector[12] detects 1 faults (17057)
+vector[11] detects 0 faults (17057)
+vector[10] detects 7 faults (17064)
+vector[9] detects 10 faults (17074)
+vector[8] detects 2 faults (17076)
+vector[7] detects 0 faults (17076)
+vector[6] detects 0 faults (17076)
+vector[5] detects 6 faults (17082)
+vector[4] detects 0 faults (17082)
+vector[3] detects 0 faults (17082)
+vector[2] detects 7 faults (17089)
+vector[1] detects 20 faults (17109)
+vector[0] detects 0 faults (17109)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 17109
+#total gate fault coverage = 98.46%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7681
+#equivalent gate fault coverage = 98.37%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.1s 0.2s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 6487 faults (6487)
+vector[40] detects 3378 faults (9865)
+vector[39] detects 2181 faults (12046)
+vector[38] detects 1268 faults (13314)
+vector[37] detects 915 faults (14229)
+vector[36] detects 635 faults (14864)
+vector[35] detects 206 faults (15070)
+vector[34] detects 621 faults (15691)
+vector[33] detects 88 faults (15779)
+vector[32] detects 210 faults (15989)
+vector[31] detects 128 faults (16117)
+vector[30] detects 121 faults (16238)
+vector[29] detects 270 faults (16508)
+vector[28] detects 88 faults (16596)
+vector[27] detects 126 faults (16722)
+vector[26] detects 108 faults (16830)
+vector[25] detects 109 faults (16939)
+vector[24] detects 14 faults (16953)
+vector[23] detects 1 faults (16954)
+vector[22] detects 13 faults (16967)
+vector[21] detects 27 faults (16994)
+vector[20] detects 32 faults (17026)
+vector[19] detects 0 faults (17026)
+vector[18] detects 2 faults (17028)
+vector[17] detects 8 faults (17036)
+vector[16] detects 14 faults (17050)
+vector[15] detects 0 faults (17050)
+vector[14] detects 5 faults (17055)
+vector[13] detects 1 faults (17056)
+vector[12] detects 1 faults (17057)
+vector[11] detects 0 faults (17057)
+vector[10] detects 7 faults (17064)
+vector[9] detects 10 faults (17074)
+vector[8] detects 2 faults (17076)
+vector[7] detects 0 faults (17076)
+vector[6] detects 0 faults (17076)
+vector[5] detects 6 faults (17082)
+vector[4] detects 0 faults (17082)
+vector[3] detects 0 faults (17082)
+vector[2] detects 7 faults (17089)
+vector[1] detects 20 faults (17109)
+vector[0] detects 0 faults (17109)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 17109
+#total gate fault coverage = 98.46%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7681
+#equivalent gate fault coverage = 98.37%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.1s 0.2s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 2869 faults (2869)
+vector[39] detects 2647 faults (5516)
+vector[38] detects 2486 faults (8002)
+vector[37] detects 1652 faults (9654)
+vector[36] detects 1145 faults (10799)
+vector[35] detects 631 faults (11430)
+vector[34] detects 1290 faults (12720)
+vector[33] detects 761 faults (13481)
+vector[32] detects 370 faults (13851)
+vector[31] detects 285 faults (14136)
+vector[30] detects 212 faults (14348)
+vector[29] detects 606 faults (14954)
+vector[28] detects 243 faults (15197)
+vector[27] detects 221 faults (15418)
+vector[26] detects 445 faults (15863)
+vector[25] detects 88 faults (15951)
+vector[24] detects 126 faults (16077)
+vector[23] detects 93 faults (16170)
+vector[22] detects 80 faults (16250)
+vector[21] detects 182 faults (16432)
+vector[20] detects 165 faults (16597)
+vector[19] detects 53 faults (16650)
+vector[18] detects 56 faults (16706)
+vector[17] detects 24 faults (16730)
+vector[16] detects 14 faults (16744)
+vector[15] detects 31 faults (16775)
+vector[14] detects 19 faults (16794)
+vector[13] detects 4 faults (16798)
+vector[12] detects 37 faults (16835)
+vector[11] detects 7 faults (16842)
+vector[10] detects 11 faults (16853)
+vector[9] detects 24 faults (16877)
+vector[8] detects 14 faults (16891)
+vector[7] detects 14 faults (16905)
+vector[6] detects 6 faults (16911)
+vector[5] detects 8 faults (16919)
+vector[4] detects 1 faults (16920)
+vector[3] detects 7 faults (16927)
+vector[2] detects 18 faults (16945)
+vector[1] detects 37 faults (16982)
+vector[0] detects 5 faults (16987)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 16987
+#total gate fault coverage = 97.76%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7613
+#equivalent gate fault coverage = 97.50%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.1s 0.3s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 1414 faults (1414)
+vector[38] detects 1765 faults (3179)
+vector[37] detects 1985 faults (5164)
+vector[36] detects 1604 faults (6768)
+vector[35] detects 1352 faults (8120)
+vector[34] detects 1223 faults (9343)
+vector[33] detects 1188 faults (10531)
+vector[32] detects 860 faults (11391)
+vector[31] detects 385 faults (11776)
+vector[30] detects 321 faults (12097)
+vector[29] detects 806 faults (12903)
+vector[28] detects 466 faults (13369)
+vector[27] detects 460 faults (13829)
+vector[26] detects 426 faults (14255)
+vector[25] detects 131 faults (14386)
+vector[24] detects 187 faults (14573)
+vector[23] detects 191 faults (14764)
+vector[22] detects 225 faults (14989)
+vector[21] detects 380 faults (15369)
+vector[20] detects 189 faults (15558)
+vector[19] detects 183 faults (15741)
+vector[18] detects 117 faults (15858)
+vector[17] detects 61 faults (15919)
+vector[16] detects 69 faults (15988)
+vector[15] detects 50 faults (16038)
+vector[14] detects 43 faults (16081)
+vector[13] detects 78 faults (16159)
+vector[12] detects 83 faults (16242)
+vector[11] detects 31 faults (16273)
+vector[10] detects 81 faults (16354)
+vector[9] detects 90 faults (16444)
+vector[8] detects 52 faults (16496)
+vector[7] detects 44 faults (16540)
+vector[6] detects 29 faults (16569)
+vector[5] detects 83 faults (16652)
+vector[4] detects 24 faults (16676)
+vector[3] detects 39 faults (16715)
+vector[2] detects 47 faults (16762)
+vector[1] detects 26 faults (16788)
+vector[0] detects 19 faults (16807)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 16807
+#total gate fault coverage = 96.73%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7496
+#equivalent gate fault coverage = 96.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.2s 0.3s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 0 faults (0)
+vector[38] detects 809 faults (809)
+vector[37] detects 1297 faults (2106)
+vector[36] detects 1607 faults (3713)
+vector[35] detects 1461 faults (5174)
+vector[34] detects 1238 faults (6412)
+vector[33] detects 1112 faults (7524)
+vector[32] detects 1118 faults (8642)
+vector[31] detects 834 faults (9476)
+vector[30] detects 445 faults (9921)
+vector[29] detects 750 faults (10671)
+vector[28] detects 723 faults (11394)
+vector[27] detects 568 faults (11962)
+vector[26] detects 566 faults (12528)
+vector[25] detects 191 faults (12719)
+vector[24] detects 223 faults (12942)
+vector[23] detects 200 faults (13142)
+vector[22] detects 404 faults (13546)
+vector[21] detects 365 faults (13911)
+vector[20] detects 235 faults (14146)
+vector[19] detects 258 faults (14404)
+vector[18] detects 287 faults (14691)
+vector[17] detects 141 faults (14832)
+vector[16] detects 141 faults (14973)
+vector[15] detects 33 faults (15006)
+vector[14] detects 80 faults (15086)
+vector[13] detects 139 faults (15225)
+vector[12] detects 140 faults (15365)
+vector[11] detects 96 faults (15461)
+vector[10] detects 109 faults (15570)
+vector[9] detects 150 faults (15720)
+vector[8] detects 107 faults (15827)
+vector[7] detects 89 faults (15916)
+vector[6] detects 123 faults (16039)
+vector[5] detects 62 faults (16101)
+vector[4] detects 33 faults (16134)
+vector[3] detects 95 faults (16229)
+vector[2] detects 91 faults (16320)
+vector[1] detects 124 faults (16444)
+vector[0] detects 30 faults (16474)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 16474
+#total gate fault coverage = 94.81%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7315
+#equivalent gate fault coverage = 93.69%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.2s 0.4s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 0 faults (0)
+vector[38] detects 0 faults (0)
+vector[37] detects 516 faults (516)
+vector[36] detects 1032 faults (1548)
+vector[35] detects 1420 faults (2968)
+vector[34] detects 868 faults (3836)
+vector[33] detects 1140 faults (4976)
+vector[32] detects 1078 faults (6054)
+vector[31] detects 1013 faults (7067)
+vector[30] detects 825 faults (7892)
+vector[29] detects 744 faults (8636)
+vector[28] detects 738 faults (9374)
+vector[27] detects 712 faults (10086)
+vector[26] detects 524 faults (10610)
+vector[25] detects 436 faults (11046)
+vector[24] detects 250 faults (11296)
+vector[23] detects 247 faults (11543)
+vector[22] detects 386 faults (11929)
+vector[21] detects 401 faults (12330)
+vector[20] detects 210 faults (12540)
+vector[19] detects 236 faults (12776)
+vector[18] detects 288 faults (13064)
+vector[17] detects 212 faults (13276)
+vector[16] detects 134 faults (13410)
+vector[15] detects 161 faults (13571)
+vector[14] detects 133 faults (13704)
+vector[13] detects 191 faults (13895)
+vector[12] detects 233 faults (14128)
+vector[11] detects 163 faults (14291)
+vector[10] detects 191 faults (14482)
+vector[9] detects 270 faults (14752)
+vector[8] detects 107 faults (14859)
+vector[7] detects 194 faults (15053)
+vector[6] detects 197 faults (15250)
+vector[5] detects 196 faults (15446)
+vector[4] detects 27 faults (15473)
+vector[3] detects 75 faults (15548)
+vector[2] detects 136 faults (15684)
+vector[1] detects 179 faults (15863)
+vector[0] detects 69 faults (15932)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 15932
+#total gate fault coverage = 91.69%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 7007
+#equivalent gate fault coverage = 89.74%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.3s 0.4s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 0 faults (0)
+vector[38] detects 0 faults (0)
+vector[37] detects 0 faults (0)
+vector[36] detects 405 faults (405)
+vector[35] detects 959 faults (1364)
+vector[34] detects 593 faults (1957)
+vector[33] detects 855 faults (2812)
+vector[32] detects 1051 faults (3863)
+vector[31] detects 1071 faults (4934)
+vector[30] detects 934 faults (5868)
+vector[29] detects 796 faults (6664)
+vector[28] detects 853 faults (7517)
+vector[27] detects 694 faults (8211)
+vector[26] detects 666 faults (8877)
+vector[25] detects 491 faults (9368)
+vector[24] detects 448 faults (9816)
+vector[23] detects 254 faults (10070)
+vector[22] detects 424 faults (10494)
+vector[21] detects 455 faults (10949)
+vector[20] detects 247 faults (11196)
+vector[19] detects 263 faults (11459)
+vector[18] detects 284 faults (11743)
+vector[17] detects 298 faults (12041)
+vector[16] detects 182 faults (12223)
+vector[15] detects 211 faults (12434)
+vector[14] detects 159 faults (12593)
+vector[13] detects 174 faults (12767)
+vector[12] detects 273 faults (13040)
+vector[11] detects 209 faults (13249)
+vector[10] detects 247 faults (13496)
+vector[9] detects 272 faults (13768)
+vector[8] detects 175 faults (13943)
+vector[7] detects 169 faults (14112)
+vector[6] detects 230 faults (14342)
+vector[5] detects 196 faults (14538)
+vector[4] detects 123 faults (14661)
+vector[3] detects 172 faults (14833)
+vector[2] detects 159 faults (14992)
+vector[1] detects 219 faults (15211)
+vector[0] detects 147 faults (15358)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 15358
+#total gate fault coverage = 88.39%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 6701
+#equivalent gate fault coverage = 85.82%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.3s 0.5s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 0 faults (0)
+vector[38] detects 0 faults (0)
+vector[37] detects 0 faults (0)
+vector[36] detects 0 faults (0)
+vector[35] detects 393 faults (393)
+vector[34] detects 332 faults (725)
+vector[33] detects 462 faults (1187)
+vector[32] detects 784 faults (1971)
+vector[31] detects 1121 faults (3092)
+vector[30] detects 1065 faults (4157)
+vector[29] detects 687 faults (4844)
+vector[28] detects 860 faults (5704)
+vector[27] detects 860 faults (6564)
+vector[26] detects 560 faults (7124)
+vector[25] detects 691 faults (7815)
+vector[24] detects 510 faults (8325)
+vector[23] detects 455 faults (8780)
+vector[22] detects 339 faults (9119)
+vector[21] detects 424 faults (9543)
+vector[20] detects 280 faults (9823)
+vector[19] detects 318 faults (10141)
+vector[18] detects 293 faults (10434)
+vector[17] detects 426 faults (10860)
+vector[16] detects 206 faults (11066)
+vector[15] detects 383 faults (11449)
+vector[14] detects 144 faults (11593)
+vector[13] detects 209 faults (11802)
+vector[12] detects 309 faults (12111)
+vector[11] detects 191 faults (12302)
+vector[10] detects 195 faults (12497)
+vector[9] detects 224 faults (12721)
+vector[8] detects 264 faults (12985)
+vector[7] detects 223 faults (13208)
+vector[6] detects 243 faults (13451)
+vector[5] detects 187 faults (13638)
+vector[4] detects 135 faults (13773)
+vector[3] detects 150 faults (13923)
+vector[2] detects 241 faults (14164)
+vector[1] detects 242 faults (14406)
+vector[0] detects 122 faults (14528)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 14528
+#total gate fault coverage = 83.61%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 6252
+#equivalent gate fault coverage = 80.07%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.4s 0.5s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 32
+#number of outputs = 32
+#number of gates = 4800
+#number of wires = 4832
+#atpg: cputime for reading in circuit ./sample_circuits/c6288.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c6288.ckt: 0.1s 0.1s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c6288.ckt: 0.0s 0.1s
+#number of equivalent faults = 7808
+#atpg: cputime for generating fault list ./sample_circuits/c6288.ckt: 0.0s 0.1s
+vector[41] detects 0 faults (0)
+vector[40] detects 0 faults (0)
+vector[39] detects 0 faults (0)
+vector[38] detects 0 faults (0)
+vector[37] detects 0 faults (0)
+vector[36] detects 0 faults (0)
+vector[35] detects 0 faults (0)
+vector[34] detects 192 faults (192)
+vector[33] detects 267 faults (459)
+vector[32] detects 397 faults (856)
+vector[31] detects 728 faults (1584)
+vector[30] detects 1084 faults (2668)
+vector[29] detects 600 faults (3268)
+vector[28] detects 700 faults (3968)
+vector[27] detects 742 faults (4710)
+vector[26] detects 856 faults (5566)
+vector[25] detects 725 faults (6291)
+vector[24] detects 729 faults (7020)
+vector[23] detects 531 faults (7551)
+vector[22] detects 387 faults (7938)
+vector[21] detects 483 faults (8421)
+vector[20] detects 322 faults (8743)
+vector[19] detects 335 faults (9078)
+vector[18] detects 271 faults (9349)
+vector[17] detects 390 faults (9739)
+vector[16] detects 195 faults (9934)
+vector[15] detects 362 faults (10296)
+vector[14] detects 144 faults (10440)
+vector[13] detects 297 faults (10737)
+vector[12] detects 318 faults (11055)
+vector[11] detects 306 faults (11361)
+vector[10] detects 296 faults (11657)
+vector[9] detects 277 faults (11934)
+vector[8] detects 198 faults (12132)
+vector[7] detects 246 faults (12378)
+vector[6] detects 182 faults (12560)
+vector[5] detects 229 faults (12789)
+vector[4] detects 162 faults (12951)
+vector[3] detects 191 faults (13142)
+vector[2] detects 172 faults (13314)
+vector[1] detects 181 faults (13495)
+vector[0] detects 191 faults (13686)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 42
+#total number of gate faults (uncollapsed) = 17376
+#total number of detected faults = 13686
+#total gate fault coverage = 78.76%
+#number of equivalent gate faults (collapsed) = 7808
+#number of equivalent detected faults = 5808
+#equivalent gate fault coverage = 74.39%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c6288.ckt: 0.4s 0.5s

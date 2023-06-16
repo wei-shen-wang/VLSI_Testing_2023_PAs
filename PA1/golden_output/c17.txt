@@ -1,0 +1,297 @@
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 14 faults (14)
+vector[6] detects 4 faults (18)
+vector[5] detects 9 faults (27)
+vector[4] detects 1 faults (28)
+vector[3] detects 0 faults (28)
+vector[2] detects 3 faults (31)
+vector[1] detects 3 faults (34)
+vector[0] detects 0 faults (34)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 34
+#total gate fault coverage = 100.00%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 22
+#equivalent gate fault coverage = 100.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 14 faults (14)
+vector[6] detects 4 faults (18)
+vector[5] detects 9 faults (27)
+vector[4] detects 1 faults (28)
+vector[3] detects 0 faults (28)
+vector[2] detects 3 faults (31)
+vector[1] detects 3 faults (34)
+vector[0] detects 0 faults (34)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 34
+#total gate fault coverage = 100.00%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 22
+#equivalent gate fault coverage = 100.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 7 faults (7)
+vector[5] detects 0 faults (7)
+vector[4] detects 8 faults (15)
+vector[3] detects 1 faults (16)
+vector[2] detects 2 faults (18)
+vector[1] detects 5 faults (23)
+vector[0] detects 1 faults (24)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 24
+#total gate fault coverage = 70.59%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 16
+#equivalent gate fault coverage = 72.73%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 7 faults (7)
+vector[2] detects 5 faults (12)
+vector[1] detects 3 faults (15)
+vector[0] detects 0 faults (15)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 15
+#total gate fault coverage = 44.12%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 9
+#equivalent gate fault coverage = 40.91%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 0 faults (0)
+vector[2] detects 2 faults (2)
+vector[1] detects 2 faults (4)
+vector[0] detects 6 faults (10)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 10
+#total gate fault coverage = 29.41%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 6
+#equivalent gate fault coverage = 27.27%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 0 faults (0)
+vector[2] detects 0 faults (0)
+vector[1] detects 0 faults (0)
+vector[0] detects 1 faults (1)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 1
+#total gate fault coverage =  2.94%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 1
+#equivalent gate fault coverage =  4.55%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 0 faults (0)
+vector[2] detects 0 faults (0)
+vector[1] detects 0 faults (0)
+vector[0] detects 0 faults (0)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 0
+#total gate fault coverage =  0.00%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 0
+#equivalent gate fault coverage =  0.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 0 faults (0)
+vector[2] detects 0 faults (0)
+vector[1] detects 0 faults (0)
+vector[0] detects 0 faults (0)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 0
+#total gate fault coverage =  0.00%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 0
+#equivalent gate fault coverage =  0.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
+
+#Circuit Summary:
+#---------------
+#number of inputs = 5
+#number of outputs = 2
+#number of gates = 6
+#number of wires = 11
+#atpg: cputime for reading in circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for levelling circuit ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for rearranging gate inputs ./sample_circuits/c17.ckt: 0.0s 0.0s
+#atpg: cputime for creating dummy nodes ./sample_circuits/c17.ckt: 0.0s 0.0s
+#number of equivalent faults = 22
+#atpg: cputime for generating fault list ./sample_circuits/c17.ckt: 0.0s 0.0s
+vector[7] detects 0 faults (0)
+vector[6] detects 0 faults (0)
+vector[5] detects 0 faults (0)
+vector[4] detects 0 faults (0)
+vector[3] detects 0 faults (0)
+vector[2] detects 0 faults (0)
+vector[1] detects 0 faults (0)
+vector[0] detects 0 faults (0)
+
+
+#FAULT COVERAGE RESULTS :
+#number of test vectors = 8
+#total number of gate faults (uncollapsed) = 34
+#total number of detected faults = 0
+#total gate fault coverage =  0.00%
+#number of equivalent gate faults (collapsed) = 22
+#number of equivalent detected faults = 0
+#equivalent gate fault coverage =  0.00%
+
+#atpg: cputime for test pattern generation ./sample_circuits/c17.ckt: 0.0s 0.0s
